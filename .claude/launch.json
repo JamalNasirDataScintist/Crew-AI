@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "obca-frontend",
+      "runtimeExecutable": "cmd",
+      "runtimeArgs": ["/c", "cd /d C:/Users/Dell/OneDrive/Desktop/OBCA/frontend && npm run dev"],
+      "port": 3000
+    }
+  ]
+}
